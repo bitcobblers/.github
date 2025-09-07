@@ -10,10 +10,6 @@ We're a collective of passionate software engineers who believe in the power of 
 - **🏗️ Build in the Open** - Modern web applications using cutting-edge technologies with performance and accessibility in mind
 - **👥 Showcase Expertise** - Professional portfolios highlighting decades of combined industry experience
 
----
-
-## 🛠️ Our Tech DNA
-
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,17 +46,5 @@ We love connecting with fellow developers, sharing knowledge, and collaborating 
 
 [![Website](https://img.shields.io/badge/🌐_Visit_Our_Blog-bitcobblers.com-0ea5e9?style=for-the-badge)](https://bitcobblers.com)
 [![Email](https://img.shields.io/badge/📧_Contact_Us-team@bitcobblers.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@bitcobblers.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"Quality software, one commit at a time"*
-
-**Built with ❤️ by passionate engineers who believe in sharing knowledge**
-
-![Footer Wave](https://github.com/bitcobblers/.github/raw/main/profile/footer.png)
 
 </div>
