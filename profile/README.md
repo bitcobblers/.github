@@ -7,8 +7,6 @@
 [![Built with Qwik](https://img.shields.io/badge/Built_with-Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)](https://qwik.dev)
 [![Book Reviews](https://img.shields.io/badge/📚_Book_Reviews-130+-green?style=for-the-badge)](https://bitcobblers.com/books)
 
-![BitCobblers Banner](https://github.com/bitcobblers/.github/raw/main/profile/banner.png)
-
 </div>
 
 ---
@@ -64,18 +62,6 @@ We love connecting with fellow developers, sharing knowledge, and collaborating 
 
 [![Website](https://img.shields.io/badge/🌐_Visit_Our_Blog-bitcobblers.com-0ea5e9?style=for-the-badge)](https://bitcobblers.com)
 [![Email](https://img.shields.io/badge/📧_Contact_Us-team@bitcobblers.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@bitcobblers.com)
-
-**Individual Team Members**: Visit our [team page](https://bitcobblers.com/team) for direct contact
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![BitCobblers Stats](https://github-readme-stats.vercel.app/api?username=bitcobblers&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
 </div>
 
