@@ -1,17 +1,7 @@
 <div align="center">
 
-# 🔧 BitCobblers
+# 👋 Welcome to BitCobblers
 ### *Crafting Code, Sharing Knowledge*
-
-[![Website](https://img.shields.io/badge/🌐_bitcobblers.com-0ea5e9?style=for-the-badge&logoColor=white)](https://bitcobblers.com)
-[![Built with Qwik](https://img.shields.io/badge/Built_with-Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)](https://qwik.dev)
-[![Book Reviews](https://img.shields.io/badge/📚_Book_Reviews-130+-green?style=for-the-badge)](https://bitcobblers.com/books)
-
-</div>
-
----
-
-## 👋 Welcome to BitCobblers
 
 We're a collective of passionate software engineers who believe in the power of **continuous learning** and **knowledge sharing**. Like craftspeople—"cobblers"—we carefully shape and refine software solutions while documenting our journey through technical writing and open source contributions.
 
