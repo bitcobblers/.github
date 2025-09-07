@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Welcome to BitCobblers
 ### *Crafting Code, Sharing Knowledge*
 
